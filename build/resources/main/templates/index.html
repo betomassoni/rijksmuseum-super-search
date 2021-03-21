@@ -1,1 +1,24 @@
-     HOME 3
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Rijksmuseum Super Search</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+</head>
+<body>
+<h1>Rijksmuseum Super Search</h1>
+
+        <span th:each="artObject: ${collection.artObjects}">
+<!--            <h3 th:text="${artObject.title}"></h3>-->
+            <img th:src="${artObject.webImage.url}" width="300"/>
+        </span>
+
+
+</body>
+</html>

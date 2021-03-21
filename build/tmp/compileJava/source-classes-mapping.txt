@@ -1,4 +1,24 @@
-br/com/robertomassoni/rijksmuseum/RijksmuseumApplication.java
- br.com.robertomassoni.rijksmuseum.RijksmuseumApplication
+br/com/robertomassoni/rijksmuseum/service/ArtService.java
+ br.com.robertomassoni.rijksmuseum.service.ArtService
+br/com/robertomassoni/rijksmuseum/service/ArtServiceImpl.java
+ br.com.robertomassoni.rijksmuseum.service.ArtServiceImpl
+br/com/robertomassoni/rijksmuseum/model/Tiles.java
+ br.com.robertomassoni.rijksmuseum.model.Tiles
+br/com/robertomassoni/rijksmuseum/model/Test.java
+ br.com.robertomassoni.rijksmuseum.model.Test
+br/com/robertomassoni/rijksmuseum/config/PropertiesConfig.java
+ br.com.robertomassoni.rijksmuseum.config.PropertiesConfig
+br/com/robertomassoni/rijksmuseum/model/WebImage.java
+ br.com.robertomassoni.rijksmuseum.model.WebImage
+br/com/robertomassoni/rijksmuseum/model/Levels.java
+ br.com.robertomassoni.rijksmuseum.model.Levels
+br/com/robertomassoni/rijksmuseum/model/ArtObjects.java
+ br.com.robertomassoni.rijksmuseum.model.ArtObjects
 br/com/robertomassoni/rijksmuseum/controller/IndexController.java
  br.com.robertomassoni.rijksmuseum.controller.IndexController
+br/com/robertomassoni/rijksmuseum/model/Images.java
+ br.com.robertomassoni.rijksmuseum.model.Images
+br/com/robertomassoni/rijksmuseum/model/Collection.java
+ br.com.robertomassoni.rijksmuseum.model.Collection
+br/com/robertomassoni/rijksmuseum/RijksmuseumApplication.java
+ br.com.robertomassoni.rijksmuseum.RijksmuseumApplication
