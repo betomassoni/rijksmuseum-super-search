@@ -1,2 +1,2 @@
 # Rijksmuseum Super Search
-A super search client search for Rijksmuseum Museum in Amsterdam
+A super search client for Rijksmuseum in Amsterdam
